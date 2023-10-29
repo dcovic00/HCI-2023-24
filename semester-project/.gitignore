@@ -31,4 +31,4 @@ yarn-error.log*
 next-env.d.ts
 
 # Exclude specific file
-/semester-project/node_modules/@next/swc-win32-x64-msvc/next-swc.win32-x64-msvc.node
+/semester-project/node_modules/
